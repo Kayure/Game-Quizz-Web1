@@ -1,0 +1,17 @@
+.answer-erase{
+    background-color: rgb(208, 102, 94);
+    color: #fff;
+  }
+  
+  .answer-erase:hover{
+    background-color: rgb(208, 102, 94);
+    color: #fff;
+  }
+
+  .buttons-later{
+      margin-top: 15px;
+  }
+
+  .end-game{
+      margin-top: 15px;
+  }
